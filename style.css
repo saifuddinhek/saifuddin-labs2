@@ -59,7 +59,7 @@ button {
 
 .main-activity {
   display: flex;
-  min-height: 100vh;
+  min-height: 75vh;
   flex-direction: row;
   justify-content: center;
 }
